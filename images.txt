@@ -3,6 +3,8 @@ php:7.4-fpm
 centos:7.8.2003
 mysql:5.7
 zhaojun1998/zfile:latest
+guovern/iptv-api:latest
+guovern/iptv-api:lite
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
