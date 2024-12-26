@@ -5,6 +5,10 @@ mysql:5.7
 zhaojun1998/zfile:latest
 guovern/iptv-api:latest
 guovern/iptv-api:lite
+greper/certd:latest
+ghcr.io/blakeblackshear/frigate:stable
+ghcr.io/home-assistant/home-assistant:stable
+gdy666/lucky
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
