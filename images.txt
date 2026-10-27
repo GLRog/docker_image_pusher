@@ -12,6 +12,7 @@ gdy666/lucky
 sonarqube:community
 tenable/nessus:latest-oracle
 owasp/threat-dragon:stable
+postgres:15.19-alpine3.24
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
