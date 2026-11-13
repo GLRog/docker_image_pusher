@@ -3,6 +3,7 @@ nginx:1.27-alpine
 php:7.4-fpm
 php:8.3-fpm-bookworm	
 centos:7.8.2003
+i386/debian:bookworm-slim
 mysql:5.7
 mysql:8.4
 zhaojun1998/zfile:latest
